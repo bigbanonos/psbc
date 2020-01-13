@@ -1,21 +1,20 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: The Park Slope Book Club
+subtitle: A Free Brooklyn-Based Book Club Community
 image: img/books-for-kids.svg
 blurb:
-  heading: Why Kaldi?
+  heading: Why Join?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Join for free. The Park Slope Book Club (PBSC) organizers pay for 100% of
+    all Membership costs, including events, gatherings, books, author readings,
+    and audio subscriptions.
 intro:
-  heading: What we offer
+  heading: Where We Meet
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    The Park Slope Book Club meets regularly. Check out our Calendar for
+    upcoming events at the Grand Army Plaza Library, Barnes & Noble, Pino's
+    Pizza, The Park Slope Library, and the Community Book Store at 143 7th
+    Avenue.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
